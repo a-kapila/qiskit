@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Qiskit \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-14 17:31+0000\n"
+"POT-Creation-Date: 2020-05-29 16:21+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -97,7 +97,7 @@ msgstr ""
 #: ../../tutorials/optimization/1_quadratic_program.ipynb:348
 msgid ""
 "The ``QuadraticProgram`` supports three types of variables: - Binary "
-"varible - Integer variable - Continuous variable"
+"variable - Integer variable - Continuous variable"
 msgstr ""
 
 #: ../../tutorials/optimization/1_quadratic_program.ipynb:350
@@ -179,12 +179,12 @@ msgstr ""
 
 #: ../../tutorials/optimization/1_quadratic_program.ipynb:1002
 msgid ""
-"You can substitue some of variables with constants or other variables. "
+"You can substitute some of variables with constants or other variables. "
 "More precicely, ``QuadraticProgram`` has a method "
 "``substitute_variables(constants=..., variables=...)`` to deal with the "
 "following two cases. - :math:`x \\leftarrow c`: when ``constants`` have a"
 " dictionary ``{x: c}``. - :math:`x \\leftarrow c y`: when ``variables`` "
-"have a dictuinary ``{x: (y, c)}``."
+"have a dictionary ``{x: (y, c)}``."
 msgstr ""
 
 #: ../../tutorials/optimization/1_quadratic_program.ipynb:1014
@@ -201,7 +201,7 @@ msgstr ""
 
 #: ../../tutorials/optimization/1_quadratic_program.ipynb:1147
 msgid ""
-"You cannot substitute variables multiple times. The metdod raises an "
+"You cannot substitute variables multiple times. The method raises an "
 "error in such a case."
 msgstr ""
 
